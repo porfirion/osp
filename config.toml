@@ -1,0 +1,4 @@
+Host = ""
+Port = "8080"
+LabeledPath = "images/labeled"
+UnlabeledPath = "images/unlabeled"
